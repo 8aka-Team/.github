@@ -12,7 +12,11 @@
  * [NitWikit-VitePress](https://github.com/8aka-Team/NitWikit-VitePress) Minecraft 开服基础教程(VitePress 版本)
  * [lezi-wiki](https://github.com/8aka-Team/lezi-wiki) Minecraft 乐子文档
  * [NitWikit-Script](https://github.com/8aka-Team/NitWiki-Script) 笨蛋开服文档的自动脚本
- * [8aka-Home](https://github.com/8aka-Team/8aka-Home) 项目主页
+ * [8aka-Home](https://github.com/8aka-Team/8aka-Home) 组织主页
+
+反馈渠道:
+
+ * [GitHub Issue](https://github.com/8aka-Team/.github) 组织 Issue
 
 ### 主要成员
 
@@ -28,7 +32,6 @@
         /><br /><sub><b>驿站</b></sub></a
       >
       <p>组织建立者,主要编写者</p>
-      </a>
     </td>
   <!-- lilingfeng -->
     <td align="center">
@@ -39,9 +42,8 @@
           alt=""
         /><br /><sub><b>lilingfeng</b></sub></a>
       <p>组织管理员,主要编写者</p>
-      </a>
     </td>
-<table>
+</table>
 
 各个文档的编写者请查看项目主页
 
