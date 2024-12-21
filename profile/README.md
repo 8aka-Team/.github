@@ -11,6 +11,7 @@
  * [NitWikit](https://github.com/8aka-Team/NitWikit) Minecraft 开服基础教程
  * [NitWikit-VitePress](https://github.com/8aka-Team/NitWikit-VitePress) Minecraft 开服基础教程(VitePress 版本)
  * [lezi-wiki](https://github.com/8aka-Team/lezi-wiki) Minecraft 乐子文档
+ * [docker-minecraft-server-cn](https://github.com/8aka-Team/docker-minecraft-server-cn) Minecraft Docker 开服的中文文档
  * [NitWikit-Script](https://github.com/8aka-Team/NitWiki-Script) 笨蛋开服文档的自动脚本
  * [8aka-Home](https://github.com/8aka-Team/8aka-Home) 组织主页
 
