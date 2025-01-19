@@ -4,7 +4,7 @@
 
 ### 关于我们
 
-我们是一个 Minecraft 服务器的文档组织,致力于编写 Minecraft 的服务器文档
+我们是一个 Minecraft 服务器的文档组织,致力于编写与 Minecraft 服务器有关的文档
 
 ### 主要项目
 
@@ -15,6 +15,7 @@
  * [NitWikit-Script](https://github.com/8aka-Team/NitWiki-Script) 笨蛋开服文档的自动脚本
  * [8aka-Home](https://github.com/8aka-Team/8aka-Home) 组织主页
  * [PluginsWiki](https://github.com/8aka-Team/PluginsWiki) 插件翻译 Wiki
+ * [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN) TypeWriter 中文wiki
 
 反馈渠道:
 
@@ -49,3 +50,4 @@
 
 各个文档的编写者请查看项目主页
 
+更多详细请查看[组织介绍](https://github.com/8aka-Team/.github)
