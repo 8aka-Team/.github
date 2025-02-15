@@ -22,6 +22,7 @@
  * [PumpkinWiki](https://github.com/8aka-Team/Pumpkin-Website-CN) Pumpkin 中文文档
  * [PluginsWiki](https://github.com/8aka-Team/PluginsWiki) 插件翻译 Wiki
  * [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN) TypeWriter 中文wiki
+ * [Paper-Docs-CN](https://github.com/8aka-Team/PaperMC-docs-CN) Paper 中文文档
 
 反馈渠道:
 
