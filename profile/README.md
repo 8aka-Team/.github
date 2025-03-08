@@ -4,29 +4,35 @@
 
 ## 关于我们
 
-我们是一个 Minecraft 服务器的文档组织,致力于编写与 Minecraft 服务器有关的文档
+我们是一个 Minecraft 服务器的组织,活跃于 Minecraft 服务器有关的地方
 
 ## 主要项目
 
 ### 原创项目
 
- * [NitWikit](https://github.com/8aka-Team/NitWikit) Minecraft 开服基础教程
- * [NitWikit-VitePress](https://github.com/8aka-Team/NitWikit-VitePress) Minecraft 开服基础教程(VitePress 版本)
- * [lezi-wiki](https://github.com/8aka-Team/lezi-wiki) Minecraft 乐子文档
- * [NitWikit-Script](https://github.com/8aka-Team/NitWiki-Script) 笨蛋开服文档的自动脚本
- * [8aka-Home](https://github.com/8aka-Team/8aka-Home) 组织主页
+* [NitWikit](https://github.com/8aka-Team/NitWikit) Minecraft 开服基础教程
+* [NitWikit-VitePress](https://github.com/8aka-Team/NitWikit-VitePress) Minecraft 开服基础教程(VitePress 版本)
+* [lezi-wiki](https://github.com/8aka-Team/lezi-wiki) Minecraft 乐子文档
+* [NitWikit-Script](https://github.com/8aka-Team/NitWiki-Script) 笨蛋开服文档的自动脚本
+* [8aka-Home](https://github.com/8aka-Team/8aka-Home) 组织主页
 
 ### 翻译项目
 
- * [docker-minecraft-server-cn](https://github.com/8aka-Team/docker-minecraft-server-cn) Minecraft Docker 开服的中文文档
- * [PumpkinWiki](https://github.com/8aka-Team/Pumpkin-Website-CN) Pumpkin 中文文档
- * [PluginsWiki](https://github.com/8aka-Team/PluginsWiki) 插件翻译 Wiki
- * [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN) TypeWriter 中文wiki
- * [Paper-Docs-CN](https://github.com/8aka-Team/PaperMC-docs-CN) Paper 中文文档
+* [docker-minecraft-server-cn](https://github.com/8aka-Team/docker-minecraft-server-cn) Minecraft Docker 开服的中文文档
+* [PumpkinWiki](https://github.com/8aka-Team/Pumpkin-Website-CN) Pumpkin 中文文档
+* [PluginsWiki](https://github.com/8aka-Team/PluginsWiki) 插件翻译 Wiki
+* [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN) TypeWriter 中文wiki
+* [Paper-Docs-CN](https://github.com/8aka-Team/PaperMC-docs-CN) Paper 中文文档
+* [Purpur-Docs-CN](https://github.com/8aka-Team/Purpur-Docs-CN) Purpur 中文文档
+
+### 接手项目
+
+* [Invero](https://github.com/8aka-Team/Invero) 服务器菜单插件
+* [Invero-Docs](https://github.com/8aka-Team/Invero-Docs) Invero 文档
 
 反馈渠道:
 
- * [GitHub Issue](https://github.com/8aka-Team/.github) 组织 Issue
+* [GitHub Issue](https://github.com/8aka-Team/.github) 组织 Issue
 
 ## 主要成员
 

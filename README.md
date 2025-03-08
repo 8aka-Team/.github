@@ -21,10 +21,16 @@
 * [PluginsWiki](https://github.com/8aka-Team/PluginsWiki) 插件翻译 Wiki
 * [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN) TypeWriter 中文wiki
 * [Paper-Docs-CN](https://github.com/8aka-Team/PaperMC-docs-CN) Paper 中文文档
+* [Purpur-Docs-CN](https://github.com/8aka-Team/Purpur-Docs-CN) Purpur 中文文档
+
+### 接手项目
+
+* [Invero](https://github.com/8aka-Team/Invero) 服务器菜单插件
+* [Invero-Docs](https://github.com/8aka-Team/Invero-Docs) Invero 文档
 
 ## 关于我们
 
-我们是一个 Minecraft 服务器的文档组织,致力于编写与 Minecraft 服务器有关的文档
+我们是一个 Minecraft 服务器的组织,活跃于 Minecraft 服务器有关的地方
 
 ## 组织成员
 
