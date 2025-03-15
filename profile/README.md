@@ -27,7 +27,7 @@
 
 ### 接手项目
 
-* [Invero](https://github.com/8aka-Team/Invero) 服务器菜单插件
+* [Invero](https://github.com/8aka-Team/Invero) 灵活强大多功能的菜单插件
 * [Invero-Docs](https://github.com/8aka-Team/Invero-Docs) Invero 文档
 
 反馈渠道:
