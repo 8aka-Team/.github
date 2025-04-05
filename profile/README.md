@@ -24,11 +24,14 @@
 * [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN) TypeWriter 中文wiki
 * [Paper-Docs-CN](https://github.com/8aka-Team/PaperMC-docs-CN) Paper 中文文档
 * [Purpur-Docs-CN](https://github.com/8aka-Team/Purpur-Docs-CN) Purpur 中文文档
+* [BedrockWiki](https://github.com/8aka-Team/bedrock-wiki-cn) 基岩版开发文档
 
 ### 接手项目
 
 * [Invero](https://github.com/8aka-Team/Invero) 灵活强大多功能的菜单插件
 * [Invero-Docs](https://github.com/8aka-Team/Invero-Docs) Invero 文档
+* [Talents-AntiCheat-Config](https://github.com/8aka-Team/Talents-AntiCheat-Config) 免费反作弊配置
+
 
 反馈渠道:
 

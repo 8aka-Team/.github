@@ -22,11 +22,13 @@
 * [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN) TypeWriter 中文wiki
 * [Paper-Docs-CN](https://github.com/8aka-Team/PaperMC-docs-CN) Paper 中文文档
 * [Purpur-Docs-CN](https://github.com/8aka-Team/Purpur-Docs-CN) Purpur 中文文档
+* [BedrockWiki](https://github.com/8aka-Team/bedrock-wiki-cn) 基岩版开发文档
 
 ### 接手项目
 
 * [Invero](https://github.com/8aka-Team/Invero) 灵活强大多功能的菜单插件
 * [Invero-Docs](https://github.com/8aka-Team/Invero-Docs) Invero 文档
+* [Talents-AntiCheat-Config](https://github.com/8aka-Team/Talents-AntiCheat-Config) 免费反作弊配置
 
 ## 关于我们
 
@@ -59,36 +61,9 @@
     </td>
 </table>
 
-## 友链
-
-我们欢迎与其他有关网站交换友链，以下项目接受申请:
-
-* [NitWikit](https://github.com/8aka-Team/NitWikit)
-* [docker-minecraft-server-cn](https://github.com/8aka-Team/docker-minecraft-server-cn)
-* [8aka-Home](https://github.com/8aka-Team/8aka-Home)
-* [PluginsWiki](https://github.com/8aka-Team/PluginsWiki)
-* [TypeWriter-Wiki-CN](https://github.com/8aka-Team/TypeWriter-Wiki-CN)
-* [Paper-Docs-CN](https://github.com/8aka-Team/PaperMC-docs-CN) Paper 中文文档
-
-
-> [!IMPORTANT]
-> 友链只会挂在你申请的网站，不会同步到所有文档站
-
-申请标准:
-
-* 你的网站与你申请的文档站有关(NitWikit/8aka-Home仅要求与 MC 有关)
-* 不违法
-* 有足够的流量
-
-> [!IMPORTANT]
-> 我们随时可以在不经通知的情况下删除友链，当然，你也可以
-
 ## 申请翻译
 
 欢迎提交你想翻译的内容，支持 Wiki/配置文件/插件 的汉化
-
-> [!IMPORTANT]
-> 该服务是无偿的，所以，别催
 
 ## 加入我们
 
@@ -97,5 +72,3 @@
 - [![](https://img.shields.io/discord/1342805340839870514?style=flat&logo=discord&label=Discord)](https://discord.gg/dAmsfCs3) <- 点击加入
 
 你可以选择你感兴趣的项目做出贡献!
-
-目前不接受组织的加入申请
