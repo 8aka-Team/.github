@@ -13,6 +13,7 @@
 * [lezi-wiki](https://github.com/8aka-Team/lezi-wiki) Minecraft 乐子文档
 * [NitWikit-Script](https://github.com/8aka-Team/NitWiki-Script) 笨蛋开服文档的自动脚本
 * [8aka-Home](https://github.com/8aka-Team/8aka-Home) 组织主页
+* [TabooLib-Guide](https://github.com/8aka-Team/TabooLib-guide) TabooLib 教程
 
 ### 翻译项目
 
@@ -57,6 +58,15 @@
           width="50px;"
           alt=""
         /><br /><sub><b>lilingfeng</b></sub></a>
+      <p>组织管理员，主要编写者</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Lythrilla"
+        ><img
+          src="https://avatars.githubusercontent.com/u/61087334"
+          width="50px;"
+          alt=""
+        /><br /><sub><b>Lythrilla</b></sub></a>
       <p>组织管理员，主要编写者</p>
     </td>
 </table>
